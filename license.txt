@@ -1,0 +1,11 @@
+Model Information:
+* title:	Velvet Dress
+* source:	https://sketchfab.com/3d-models/velvet-dress-c035a3939a1940c184c6096c20eb48b5
+* author:	AnastasiaTz (https://sketchfab.com/AnastasiaTz)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Velvet Dress" (https://sketchfab.com/3d-models/velvet-dress-c035a3939a1940c184c6096c20eb48b5) by AnastasiaTz (https://sketchfab.com/AnastasiaTz) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
